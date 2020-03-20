@@ -1,6 +1,6 @@
 module github.com/geoscienceaustralia/go-rtcm
 
-go 1.12
+go 1.14
 
 require (
 	github.com/bamiaux/iobit v0.0.0-20170418073505-498159a04883
